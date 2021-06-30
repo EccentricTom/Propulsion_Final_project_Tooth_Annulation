@@ -51,6 +51,8 @@ This folder contains the Python notebooks and python helper files to run the pro
 
 This folder contains all the images used in the course of this project, including manually created masks for image segmentation. The folder structure has been maintained, but will need to be populated by following the links provided in the locations.txt files
 
+NB. Due to file size retrictions, you will need to download the images manually from a google drive folder. The links for the images are in their respective repositories.
+
 ### Graphs
 
 This is a folder containing graphical representations of outputs from the model. They also have graphical represntation of model architecture
